@@ -291,7 +291,7 @@ nav .navbar {
     height: 300px;
     width: 300px;
   }
-  .title-two {
-    color: #a59bc4;
+  .title-two h1 {
+    background-image: linear-gradient(to right, #d1c9e9, #b393d3);
   }
 }
